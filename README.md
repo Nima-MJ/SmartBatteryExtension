@@ -1,2 +1,5 @@
 # SmartBatteryExtension
 A smart battery extension solution designed for electric scooters in Ottawa (eScooters)
+
+## Project description
+Our project, "SmartBatteryExtension," aims to provide a solution to the seasonal limitations of e-scooter usage on our campus in Ottawa. With the goal of enabling year-round transportation, we are developing an integrated system that offers real-time battery monitoring and automatic controls. This system, equipped with a Nickel Metal Hydride (NiMH) battery pack, ensures e-scooters can reliably operate in harsh winter conditions, making them a convenient and eco-friendly choice for students. For comprehensive project details, including prerequisites, project setup, cost, and data flow, please refer to the accompanying [FinalReport PDF]() in this GitHub repository. The Python script included in the repository is designed to be run on the Raspberry Pi. We encourage contributions and welcome inquiries. For more information, feel free to reach out to us at nmehrjoo1999@gmail.com.
